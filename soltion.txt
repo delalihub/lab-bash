@@ -1,0 +1,5 @@
+
+mkdir new_dir
+rmdir new_dir
+cp sed.txt lorem-copy
+cp lorem lorem-copy
